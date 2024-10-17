@@ -4,7 +4,7 @@ Version:	0.1.2
 Release:	1
 License:	LGPLv2.1+
 Group:		Sound
-Url:		http://sourceforge.net/projects/maiat3plusdec/
+Url:		https://sourceforge.net/projects/maiat3plusdec/
 Source0:	http://sourceforge.net/projects/maiat3plusdec/files/MaiAT3PlusDecoder/MaiAT3PlusDecoder_%{version}.zip
 # cmake project and some other additional files taken from
 # https://github.com/emulibraries/maiatrac3plus
